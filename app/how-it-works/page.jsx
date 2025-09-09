@@ -1,0 +1,1 @@
+export default function Page(){return(<div className="prose prose-invert max-w-none"><h1>How It Works</h1><p>Choose your state, place the pouch high in gum/cheek, notice the shift, then adjust.</p></div>)}

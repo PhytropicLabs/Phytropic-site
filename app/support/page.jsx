@@ -1,0 +1,1 @@
+export default function Page(){return(<div className="prose prose-invert max-w-none"><h1>Support</h1><p>Reach out via the form. We respond within 1–2 business days.</p></div>)}

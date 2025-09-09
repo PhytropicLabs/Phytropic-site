@@ -1,0 +1,1 @@
+export default function Page(){return(<div className="prose prose-invert max-w-none"><h1>About</h1><p>Phytropic helps people self-modulate—small rituals that create felt changes you can use.</p></div>)}

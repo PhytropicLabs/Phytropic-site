@@ -1,0 +1,1 @@
+export default function Page(){return(<div className="prose prose-invert max-w-none"><h1>Science</h1><p>A quick, honest look at our formulation logic, absorption thinking, and testing.</p></div>)}

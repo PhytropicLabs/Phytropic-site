@@ -1,0 +1,1 @@
+export default function Page(){return(<div className="prose prose-invert max-w-none"><h1>Journal</h1><p>Thought leadership and practical rituals for state design.</p></div>)}

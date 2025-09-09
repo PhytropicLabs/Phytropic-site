@@ -1,0 +1,1 @@
+export default function Page(){return(<div className="prose prose-invert max-w-none"><h1>FAQ</h1><p>Using MOD, safety, shipping & returns, subscriptions, and wholesale.</p></div>)}

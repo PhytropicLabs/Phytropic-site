@@ -1,0 +1,1 @@
+export default function Page(){return(<div className="prose prose-invert max-w-none"><h1>Stories</h1><p>Real shifts from real days. Filter by effect in a future update.</p></div>)}
